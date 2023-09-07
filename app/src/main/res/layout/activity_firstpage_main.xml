@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background6"
+    android:padding="16dp"
+    android:orientation="vertical"
+    tools:context=".FirstActivity">
+
+    <ImageView
+        android:id="@+id/images"
+        android:layout_width="182dp"
+        android:layout_height="109dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:src="@drawable/background8" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/name"
+        android:textStyle="bold|italic"
+        android:textSize="40sp"
+        android:layout_marginTop="10dp"
+        android:textColor="#C0C0C0"
+        android:layout_gravity="center"
+        android:text="@string/app_title"/>
+
+
+    <Button
+        android:id="@+id/enter"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="35dp"
+        android:layout_gravity="center"
+        android:text="@string/enter_button"/>
+
+    <TextView
+        android:id="@+id/quote"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="270dp"
+        android:fontFamily="cursive"
+        android:text="@string/app_quote"
+        android:textColor="#FABA00"
+        android:textSize="47sp"
+        android:textStyle="italic" />
+
+</LinearLayout>

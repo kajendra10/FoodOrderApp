@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Food Order App</string>
+    <string name="app_title">FOOD RANGER</string>
+    <string name="app_quote">Its food o clock</string>
+    <string name="enter_button">Enter</string>
+    <string name="proceed_button">Proceed</string>
+    <string name="second_title">Food Menu (Dishes)</string>
+    <string name="food">Nasi Goreng</string>
+    <string name="food1">Nasi Lemak</string>
+    <string name="food2">Mee Goreng</string>
+    <string name="food3">Curry Puffs</string>
+    <string name="third_title">Drinks (Beverages)</string>
+    <string name="drink1">Mineral Water</string>
+    <string name="drink2">Sirap Limau</string>
+    <string name="drink3">Lime Juice</string>
+    <string name="drink4">Teh Tarik</string>
+    <string name="add1">RM3.20</string>
+    <string name="add2">RM3.00</string>
+    <string name="add3">RM3.50</string>
+    <string name="add4">RM1.60</string>
+    <string name="add5">RM2.00</string>
+    <string name="add6">RM2.50</string>
+    <string name="add7">RM2.30</string>
+    <string name="add8">RM3.00</string>
+    <string name="ord">ORDER</string>
+    <string name="order_details">YOUR ORDER</string>
+    <string name="final_orders">ORDER SUMMARY</string>
+</resources>
